@@ -12,4 +12,4 @@ def get_biggest(numbers):
         return int(''.join(loc_numbers_sorted))
 
 
-print(get_biggest([7,71,72]))
+print(get_biggest([123, 33, 4, 43]))
