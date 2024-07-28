@@ -13,3 +13,4 @@ def get_biggest(numbers):
 
 
 print(get_biggest([123, 33, 4, 43]))
+print(get_biggest([7, 71, 771]))
